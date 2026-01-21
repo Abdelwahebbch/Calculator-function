@@ -1,0 +1,12 @@
+{
+  "projectId": "69714aa400085d814ff1",
+  "functions": [
+    {
+      "id": "697159337fdae33b65d6",
+      "name": "Starter function",
+      "runtime": "python-3.11",
+      "entrypoint": "main.py",
+      "path": "."
+    }
+  ]
+}
