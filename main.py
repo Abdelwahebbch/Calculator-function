@@ -6,3 +6,4 @@ def main(context):
         return context.res.json({
             "Name":"Abdelwaheb"
         })
+    return context.res.send("Aloo Aloo ya migo")
