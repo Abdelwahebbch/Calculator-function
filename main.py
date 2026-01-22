@@ -3,6 +3,6 @@ import json
 
 def main(context):
     if (context.req.method == 'GET'): 
-        return json.decoder({
+        return context.res.json({
             "Name":"Abdelwaheb"
         })
